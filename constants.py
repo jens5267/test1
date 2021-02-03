@@ -1,6 +1,6 @@
 WIND_SPEEDS = list(range(26))
 
-R_ROT = 21.6
+R_ROT = 21.8
 TSR = 7.5889
 c_P = 0.42844
 c_T = c_P/TSR
